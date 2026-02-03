@@ -1,7 +1,8 @@
 Problem 1: 15 points
 (a) 5 points
-(b) 4 points
+(b) 1 points
 (c) 6 points
+(d) 3 points
 
 Problem 2: 14 points 
 (a) 3 points
